@@ -164,7 +164,7 @@ const projects = [
     category: 'Canter Wrap Design',
     desc: 'Mobile branding for Kiro Clean Beauty at Palladium Mall. Abstract patterns, bold colors, 100% vegan branding.',
     accent: '#f43f5e',
-    img: 'images/kiro.png',
+    img: 'kiro.png',
     objectPosition: 'center center',
   },
   {
@@ -172,7 +172,7 @@ const projects = [
     category: 'Web Banner',
     desc: 'Clean, elegant event promotion banner for a personalised engagement ring styling session in Borivali, Mumbai.',
     accent: '#fcd34d',
-    img: 'images/ring.png',
+    img: 'ring.png',
     objectPosition: 'center top',
   },
   {
@@ -180,7 +180,7 @@ const projects = [
     category: 'Event Poster',
     desc: 'Vibrant festival poster with a wine bottle composition — an explosion of color, music, food and festivities.',
     accent: '#a855f7',
-    img: 'images/wineout.png',
+    img: 'wineout.png',
     objectPosition: 'center bottom',
   },
   {
@@ -188,7 +188,7 @@ const projects = [
     category: 'Auto Rickshaw Sticker',
     desc: "Bold urban back-sticker for Borzo's new truck delivery service. Eye-catching design for high-traffic visibility.",
     accent: '#22d3ee',
-    img: 'images/borzo.png',
+    img: 'borzo.png',
     objectPosition: 'center center',
   },
 ];
